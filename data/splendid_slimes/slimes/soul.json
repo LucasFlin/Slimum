@@ -1,0 +1,29 @@
+{
+  "breed": "soul",
+  "name": "Soul",
+  "color": "#611d6b",
+  "particle": {
+    "item": "malum:block_of_soulstone"
+  },
+  "diet": "Spirits",
+  "foods": [
+    { "tag": "malum:spirit" }
+  ],
+  "favorite_food": {
+    "item": "malum:eldritch_spirit"
+  },
+  "traits": ["floating"],
+  "positive_emit_effects": [
+    {
+      "effect": "malum:earthen_might",
+      "duration": 300
+    }
+  ],
+  "emit_effect_particle": "minecraft:angry_villager",
+  "negative_emit_effects": [
+    {
+      "effect": "malum:rejected",
+      "duration": 120
+    }
+    ]
+}

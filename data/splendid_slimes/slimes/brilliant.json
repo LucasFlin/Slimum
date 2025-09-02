@@ -1,0 +1,29 @@
+{
+  "breed": "brilliant",
+  "name": "Brilliant",
+  "color": "#afe27b",
+  "particle": {
+    "item": "malum:block_of_brilliance"
+  },
+  "diet": "Spirits",
+  "foods": [
+    { "tag": "malum:spirit" }
+  ],
+  "favorite_food": {
+    "item": "malum:eldritch_spirit"
+  },
+  "traits": ["floating"],
+  "positive_emit_effects": [
+    {
+      "effect": "minecraft:glowing",
+      "duration": 300
+    }
+  ],
+  "emit_effect_particle": "minecraft:angry_villager",
+  "negative_emit_effects": [
+    {
+      "effect": "malum:rejected",
+      "duration": 120
+    }
+    ]
+}

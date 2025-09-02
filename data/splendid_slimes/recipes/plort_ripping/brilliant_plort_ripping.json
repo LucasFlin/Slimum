@@ -1,0 +1,23 @@
+{
+  "type": "splendid_slimes:plort_ripping",
+  "ingredient": {
+    "item": "splendid_slimes:plort",
+    "nbt": {
+      "plort": {
+        "id": "splendid_slimes:brilliant"
+      }
+    }
+  },
+  "results": [
+    {
+      "item": "malum:cluster_of_brilliance",
+        "count": 1,
+      "weight": 50
+    },
+        {
+      "item": "malum:chunk_of_brilliance",
+        "count": 1,
+      "weight": 25
+    }
+  ]
+}
