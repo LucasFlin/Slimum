@@ -1,11 +1,11 @@
 {
   "breed": "brilliant",
-  "name": "Brilliant",
+  "name": "slime.splendid_slimes.brilliant",
   "color": "#afe27b",
   "particle": {
     "item": "malum:block_of_brilliance"
   },
-  "diet": "Spirits",
+  "diet": "diet.splendid_slimes.brilliant",
   "foods": [
     { "tag": "malum:spirit" }
   ],

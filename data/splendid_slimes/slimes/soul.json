@@ -1,11 +1,11 @@
 {
   "breed": "soul",
-  "name": "Soul",
+  "name": "slime.splendid_slimes.soul",
   "color": "#611d6b",
   "particle": {
     "item": "malum:block_of_soulstone"
   },
-  "diet": "Spirits",
+  "diet": "diet.splendid_slimes.soul",
   "foods": [
     { "tag": "malum:spirit" }
   ],
